@@ -7,6 +7,7 @@ public class Sample {
 	public void m1()
 	{
 		System.out.println("Runnimng in  mainnnnnn is the running part");
+		System.out.println("adding for verifying");
 	}
 
 }
